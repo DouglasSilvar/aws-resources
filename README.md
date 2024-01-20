@@ -17,3 +17,13 @@
 
 ## Comando para acessar a EC2 em formato Bastion com porta habilitada para a conexão
 ### ssh -v -i "parX.pem" -N -L 6379:eeee.5nqg31.ng.0001.use1.cache.amazonaws.com:6379 ubuntu@54.158.228.220
+
+# Playlist do projeto
+## 1 - https://youtu.be/ZMjSGq7Fwb4
+## 2 - https://youtu.be/EHRFDLydRy4
+## 3 - https://youtu.be/7nAqBgJIMDw
+## 4 - https://youtu.be/EzLC8soTumU
+## 5 - https://youtu.be/ENFJx9wdm1E
+
+
+
