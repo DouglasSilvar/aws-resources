@@ -14,7 +14,7 @@ public class SqsMessageListenerService {
 
     private final AddressService addressService;
 
-    @SqsListener("fila-zinha")
+    @SqsListener("${sqs.name}")
     public void listen(String message) {
         log.info("SQS - Message received: "+message);
         var address = JsonAddress.toAddress(message);
