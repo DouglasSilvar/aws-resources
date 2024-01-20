@@ -8,6 +8,7 @@ import java.io.Serializable;
 @Data
 @NoArgsConstructor
 public class AddressDTO implements Serializable {
+
     private String cep;
     private String logradouro;
     private String complemento;
