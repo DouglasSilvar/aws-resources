@@ -9,7 +9,7 @@
 ### 7 - BucketS3
 ![0001](https://github.com/DouglasSilvar/aws-resources/assets/74723511/06a4a7f8-ea45-4f25-9bce-953c30b8cdfe)
 
-# Alguns comandos para utilizar de exemplo que utilizei:
+# Alguns comandos para utilizar de exemplo:
 
 ## Para habilitar internet na EC2
 ### sudo resolvectl dns eth0 8.8.8.8 8.8.4.4
